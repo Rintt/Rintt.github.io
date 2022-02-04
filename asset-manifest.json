@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fc548e2.css",
-    "main.js": "/static/js/main.b6301e71.js",
-    "static/media/g10.png": "/static/media/g10.620594234ed09552732c.png",
-    "static/media/C.jpg": "/static/media/C.13465dab7dc5f05771b9.jpg",
-    "static/media/B.jpg": "/static/media/B.d2d4eb8572e29193304f.jpg",
-    "static/media/A.jpg": "/static/media/A.d2200fc8ef553b4f870f.jpg",
-    "static/media/background.jpg": "/static/media/background.1f16a6a1003f53666360.jpg",
-    "static/media/friends.jpeg": "/static/media/friends.09a50ddcc6716123808b.jpeg",
-    "static/media/logo.png": "/static/media/logo.2e6f172791aef79407bb.png",
-    "static/media/D.jpg": "/static/media/D.677ba1dbc8f03e6abac2.jpg",
-    "static/media/plant.png": "/static/media/plant.4bc69876fcfea113c4c6.png",
-    "index.html": "/index.html",
-    "main.8fc548e2.css.map": "/static/css/main.8fc548e2.css.map",
-    "main.b6301e71.js.map": "/static/js/main.b6301e71.js.map"
+    "main.css": "/Rintt.github.io/static/css/main.fb4926c6.css",
+    "main.js": "/Rintt.github.io/static/js/main.d4432dc5.js",
+    "static/media/g10.png": "/Rintt.github.io/static/media/g10.620594234ed09552732c.png",
+    "static/media/C.jpg": "/Rintt.github.io/static/media/C.13465dab7dc5f05771b9.jpg",
+    "static/media/B.jpg": "/Rintt.github.io/static/media/B.d2d4eb8572e29193304f.jpg",
+    "static/media/A.jpg": "/Rintt.github.io/static/media/A.d2200fc8ef553b4f870f.jpg",
+    "static/media/background.jpg": "/Rintt.github.io/static/media/background.1f16a6a1003f53666360.jpg",
+    "static/media/friends.jpeg": "/Rintt.github.io/static/media/friends.09a50ddcc6716123808b.jpeg",
+    "static/media/logo.png": "/Rintt.github.io/static/media/logo.2e6f172791aef79407bb.png",
+    "static/media/D.jpg": "/Rintt.github.io/static/media/D.677ba1dbc8f03e6abac2.jpg",
+    "static/media/plant.png": "/Rintt.github.io/static/media/plant.4bc69876fcfea113c4c6.png",
+    "index.html": "/Rintt.github.io/index.html",
+    "main.fb4926c6.css.map": "/Rintt.github.io/static/css/main.fb4926c6.css.map",
+    "main.d4432dc5.js.map": "/Rintt.github.io/static/js/main.d4432dc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fc548e2.css",
-    "static/js/main.b6301e71.js"
+    "static/css/main.fb4926c6.css",
+    "static/js/main.d4432dc5.js"
   ]
 }
