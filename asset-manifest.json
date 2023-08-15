@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c7a3a082.css",
-    "main.js": "/static/js/main.20a28271.js",
+    "main.js": "/static/js/main.9c28ae58.js",
     "static/js/787.7ce69e84.chunk.js": "/static/js/787.7ce69e84.chunk.js",
     "static/media/1.png": "/static/media/1.ce01d026ca1f2f64cdb0.png",
     "static/media/9.png": "/static/media/9.a8173b29cca1e26a8609.png",
@@ -15,11 +15,11 @@
     "static/media/Flag_of_the_United_Kingdom.png": "/static/media/Flag_of_the_United_Kingdom.380dcaa60792797f40a4.png",
     "index.html": "/index.html",
     "main.c7a3a082.css.map": "/static/css/main.c7a3a082.css.map",
-    "main.20a28271.js.map": "/static/js/main.20a28271.js.map",
+    "main.9c28ae58.js.map": "/static/js/main.9c28ae58.js.map",
     "787.7ce69e84.chunk.js.map": "/static/js/787.7ce69e84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7a3a082.css",
-    "static/js/main.20a28271.js"
+    "static/js/main.9c28ae58.js"
   ]
 }
