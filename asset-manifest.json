@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.c7a3a082.css",
-    "main.js": "/static/js/main.5c0c2eab.js",
+    "main.js": "/static/js/main.20a28271.js",
     "static/js/787.7ce69e84.chunk.js": "/static/js/787.7ce69e84.chunk.js",
-    "static/media/3.png": "/static/media/3.a80f114f9b7e71f7e66b.png",
-    "static/media/8.png": "/static/media/8.2b2f4913825b81eb912a.png",
-    "static/media/9.png": "/static/media/9.83d6ecd1f9d5a64f3040.png",
-    "static/media/2.png": "/static/media/2.7c757a774b24cab00f2b.png",
-    "static/media/1.png": "/static/media/1.0ece161e2d8e77f97711.png",
-    "static/media/7.png": "/static/media/7.01ee4a1419300a414cf7.png",
-    "static/media/5.png": "/static/media/5.43e0194f9028c8993532.png",
-    "static/media/6.png": "/static/media/6.60b89c26fe8ea1cf38bb.png",
-    "static/media/4.png": "/static/media/4.9a4ed264d1b76f0547d3.png",
+    "static/media/1.png": "/static/media/1.ce01d026ca1f2f64cdb0.png",
+    "static/media/9.png": "/static/media/9.a8173b29cca1e26a8609.png",
+    "static/media/8.png": "/static/media/8.fea2e8687f1357032ba5.png",
+    "static/media/7.png": "/static/media/7.b2cbf2493bde3836632d.png",
+    "static/media/6.png": "/static/media/6.12dfd234302f33ca3e91.png",
+    "static/media/2.png": "/static/media/2.e22f04564af8cf526382.png",
+    "static/media/5.png": "/static/media/5.47c2d9ad7db4314fcd88.png",
+    "static/media/3.png": "/static/media/3.c0f20438068dd9c301c1.png",
+    "static/media/4.png": "/static/media/4.1a9df9c77005f2a1033b.png",
     "static/media/Flag_of_the_United_Kingdom.png": "/static/media/Flag_of_the_United_Kingdom.380dcaa60792797f40a4.png",
     "index.html": "/index.html",
     "main.c7a3a082.css.map": "/static/css/main.c7a3a082.css.map",
-    "main.5c0c2eab.js.map": "/static/js/main.5c0c2eab.js.map",
+    "main.20a28271.js.map": "/static/js/main.20a28271.js.map",
     "787.7ce69e84.chunk.js.map": "/static/js/787.7ce69e84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7a3a082.css",
-    "static/js/main.5c0c2eab.js"
+    "static/js/main.20a28271.js"
   ]
 }
