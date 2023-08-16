@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.c7a3a082.css",
-    "main.js": "/static/js/main.038c086a.js",
+    "main.js": "/static/js/main.b6b48feb.js",
     "static/js/787.7ce69e84.chunk.js": "/static/js/787.7ce69e84.chunk.js",
-    "static/media/1.png": "/static/media/1.bf2c8544d1f7a839b91c.png",
-    "static/media/9.png": "/static/media/9.8a0df57325601e59afd3.png",
-    "static/media/8.png": "/static/media/8.6569f9e796e93ffd2fa9.png",
-    "static/media/7.png": "/static/media/7.cddf257c9be3d5322214.png",
-    "static/media/6.png": "/static/media/6.1dc5a3c4bc3aa26dc134.png",
-    "static/media/2.png": "/static/media/2.64295581d58cfcfe5f3f.png",
-    "static/media/5.png": "/static/media/5.6ad16b26bf52147ae5fa.png",
-    "static/media/3.png": "/static/media/3.afae7f119bb731c2206e.png",
-    "static/media/4.png": "/static/media/4.0ae0ccd9e3bbfdc619e2.png",
+    "static/media/1.png": "/static/media/1.e7a0c73b3777f640cdac.png",
+    "static/media/9.png": "/static/media/9.f0d74555442e0d548935.png",
+    "static/media/7.png": "/static/media/7.8f25f1f2030fc0e020ce.png",
+    "static/media/8.png": "/static/media/8.e044f6a146699115b1b5.png",
+    "static/media/6.png": "/static/media/6.ea35961a703e679c452a.png",
+    "static/media/2.png": "/static/media/2.09eb3c070e2c488c5fb8.png",
+    "static/media/5.png": "/static/media/5.3630d93e507b2f4cb05e.png",
+    "static/media/3.png": "/static/media/3.cc5e6a345caa3e5470a1.png",
+    "static/media/4.png": "/static/media/4.3931bf5dbb1f95d9e69d.png",
     "static/media/Flag_of_the_United_Kingdom.png": "/static/media/Flag_of_the_United_Kingdom.380dcaa60792797f40a4.png",
     "index.html": "/index.html",
     "main.c7a3a082.css.map": "/static/css/main.c7a3a082.css.map",
-    "main.038c086a.js.map": "/static/js/main.038c086a.js.map",
+    "main.b6b48feb.js.map": "/static/js/main.b6b48feb.js.map",
     "787.7ce69e84.chunk.js.map": "/static/js/787.7ce69e84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7a3a082.css",
-    "static/js/main.038c086a.js"
+    "static/js/main.b6b48feb.js"
   ]
 }
