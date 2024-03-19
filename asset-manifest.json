@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7a3a082.css",
+    "main.js": "/static/js/main.8d9019e9.js",
+    "static/js/787.7ce69e84.chunk.js": "/static/js/787.7ce69e84.chunk.js",
+    "static/media/1.png": "/static/media/1.73ab535593ba5afe285a.png",
+    "static/media/7.png": "/static/media/7.907758a5df897401f63a.png",
+    "static/media/6.png": "/static/media/6.1288ce9fb8a68be665e7.png",
+    "static/media/2.png": "/static/media/2.8e77e95d492ce52c4643.png",
+    "static/media/5.png": "/static/media/5.b20baf169c8b544aa2a1.png",
+    "static/media/4.png": "/static/media/4.df097498ba7e1a18f435.png",
+    "static/media/3.png": "/static/media/3.1a8f8e9492ca4946f8e5.png",
+    "static/media/Flag_of_the_United_Kingdom.png": "/static/media/Flag_of_the_United_Kingdom.380dcaa60792797f40a4.png",
+    "index.html": "/index.html",
+    "main.c7a3a082.css.map": "/static/css/main.c7a3a082.css.map",
+    "main.8d9019e9.js.map": "/static/js/main.8d9019e9.js.map",
+    "787.7ce69e84.chunk.js.map": "/static/js/787.7ce69e84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7a3a082.css",
+    "static/js/main.8d9019e9.js"
+  ]
+}
