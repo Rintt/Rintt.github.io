@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.c7a3a082.css",
-    "main.js": "/static/js/main.2b653b34.js",
+    "main.js": "/static/js/main.6f0dd87d.js",
     "static/js/787.7ce69e84.chunk.js": "/static/js/787.7ce69e84.chunk.js",
-    "static/media/1.png": "/static/media/1.8164ccfe8ba358743c84.png",
-    "static/media/7.png": "/static/media/7.dabf4372a2e5acd16816.png",
-    "static/media/6.png": "/static/media/6.e3840c54c023ede1241f.png",
-    "static/media/2.png": "/static/media/2.14388d17eb65745fda13.png",
-    "static/media/5.png": "/static/media/5.e1b9f64e89fa9835e547.png",
-    "static/media/4.png": "/static/media/4.4df030b467d08ae1f8d3.png",
-    "static/media/3.png": "/static/media/3.fab667d95c3d02ced3d9.png",
+    "static/media/1.png": "/static/media/1.c2716bf19819713051b9.png",
+    "static/media/7.png": "/static/media/7.6747239ca198572ad62d.png",
+    "static/media/6.png": "/static/media/6.0f41a5b236ad9ef4dcd3.png",
+    "static/media/2.png": "/static/media/2.0f2e49ef874225518b00.png",
+    "static/media/4.png": "/static/media/4.42ff18f4253bf0d8ad5d.png",
+    "static/media/5.png": "/static/media/5.2cedbbe8288e5522cf7e.png",
+    "static/media/3.png": "/static/media/3.128e6cd4a15648f6f95b.png",
     "static/media/Flag_of_the_United_Kingdom.png": "/static/media/Flag_of_the_United_Kingdom.380dcaa60792797f40a4.png",
     "index.html": "/index.html",
     "main.c7a3a082.css.map": "/static/css/main.c7a3a082.css.map",
-    "main.2b653b34.js.map": "/static/js/main.2b653b34.js.map",
+    "main.6f0dd87d.js.map": "/static/js/main.6f0dd87d.js.map",
     "787.7ce69e84.chunk.js.map": "/static/js/787.7ce69e84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7a3a082.css",
-    "static/js/main.2b653b34.js"
+    "static/js/main.6f0dd87d.js"
   ]
 }
